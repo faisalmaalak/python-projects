@@ -1,5 +1,4 @@
-# python-projects
-some amazing python projects
+# python mini projects
 
-here you can find some interestin python prorects and ideas to work o with your code skills.
-stay tuned
+Here You will find mini Python codes for automation tasks and data flows
+
